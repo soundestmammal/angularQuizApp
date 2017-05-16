@@ -1,11 +1,11 @@
 (function(){
 
 	angular
-		.module("turtleFacts");
-		.controller("listCtrl" , ListController);
+		.module("turtleFacts")
+		.controller("listCtrl" , function(){
+
+		});
 
 
-		function ListController(){
-			
-		}
+
 })();
